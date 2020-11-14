@@ -1,7 +1,7 @@
 %define module	sortedcontainers
 
 Name:           python-%{module}
-Version:        2.1.0
+Version:        2.3.0
 Release:        1
 Group:          Development/Python
 Summary:        Sorted container data types
