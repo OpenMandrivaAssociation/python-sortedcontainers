@@ -2,7 +2,7 @@
 
 Name:           python-%{module}
 Version:        2.3.0
-Release:        1
+Release:        2
 Group:          Development/Python
 Summary:        Sorted container data types
 License:        ASL2.0
@@ -33,4 +33,4 @@ rm -rf %{module}.egg-info
 %license LICENSE
 %doc README.rst
 %{python_sitelib}/%{module}
-%{python_sitelib}/%{module}-%{version}-py?.?.egg-info
+%{python_sitelib}/%{module}-%{version}-py*.*.egg-info
