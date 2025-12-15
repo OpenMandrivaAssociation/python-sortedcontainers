@@ -2,7 +2,7 @@
 
 Name:           python-%{module}
 Version:        2.4.0
-Release:        2
+Release:        3
 Group:          Development/Python
 Summary:        Sorted container data types
 License:        ASL2.0
